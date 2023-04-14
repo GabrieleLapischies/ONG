@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+* { box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.cabecalho{
+    background-color: rgba(255, 255, 255, 0.58);
+    height: 125px;
+}
+.logo{
+    padding: 10px 20px;
+}
+#id_logo{
+    height: 100px;
+    right: 100px;
+    float: left;
+}
+.logoe{
+    margin-left:100px ;
+    margin-top:0px;
+    height: 80px;
+    width: 360px;
+    text-align: center;
+}
+#tlogo{
+    margin: 10px;
+    font-size: xx-large;
+}
+.naveg{
+    background-color: rgb(145, 209, 225);
+    height: 40px; 
+    width: 100%;
+}
+.cnaveg{
+    background-color: rgba(255, 255, 255, 0.124);
+    margin: 20px;
+    margin-bottom: 13px;
+    border-width: thin;
+    float: right;
+    color:#000 ;
+    text-align: center;
+    padding: 0px;
+}
+.sect{
+    max-width: 50%;
+    margin: auto;
+    margin-top: 0px;
+}
+.conteudo{
+    background-color: wheat;
+}
+.excl{
+    padding: 5px;
+    width: 97%;
+    margin: 20px;
+}
+.text{
+    text-align: center;
+    padding: 5px;
+    width: 97%;
+    margin: 20px;
+}
+
+.rodap{
+    padding: 10px;
+    background-color: rgb(145, 209, 225);
+    text-align: center;
+}
